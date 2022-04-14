@@ -7,6 +7,7 @@ public class class1Test {
 	@Test
 	public void testStep1() {
 		System.out.println("Step1 in class1");
+		System.out.println("Step1 edited in class1");
 	}
 
 }
