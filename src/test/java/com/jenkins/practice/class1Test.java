@@ -12,7 +12,7 @@ public class class1Test {
 
 		//rkhkldjlkajdlkjlasjdlkfjalksdjlkjaslkjflasdj
 		//comment
-		//comment
+		//comment by branch2 in class1
 
 		System.out.println("SDET34L1");
 		//rkhkldjlkajdlkjlasjdlkfjalksdjlkjaslkjflasdj
