@@ -12,7 +12,6 @@ public class class1Test {
 
 
 		
-		//comment
 		//comment by branch2 in class1
 
 		//comment by branch1 in class1
