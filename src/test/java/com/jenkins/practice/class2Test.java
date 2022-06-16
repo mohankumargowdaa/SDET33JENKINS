@@ -7,7 +7,7 @@ public class class2Test {
 	@Test
 	public void testStep1() {
 		System.out.println("Step1 in class2");
-		//comment by branch1
+		//comment by branch
 	}
 
 }
