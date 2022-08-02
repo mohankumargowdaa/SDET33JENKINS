@@ -10,6 +10,6 @@ public class class3Test {
 		String url = System.getProperty("URL");
 		System.out.println(browser+" "+url);
 		System.out.println("Step1 in class3");
-	}
+	}DFLKJASLKJDFSLK
 
 }
